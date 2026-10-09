@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\ROMA\\Desktop\\Student\\LR5.1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0483ED43-C978-A4AF-4B21-08E90E3C505C}|..\\UnitTest5.1\\UnitTest5.1.vcxproj|C:\\Users\\ROMA\\Desktop\\Student\\UnitTest5.1\\UnitTest5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7BB57FAA-4483-4EED-B251-65D63860CA7D}|LR5.1.vcxproj|C:\\Users\\ROMA\\Desktop\\Student\\LR5.1\\LR5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7BB57FAA-4483-4EED-B251-65D63860CA7D}|LR5.1.vcxproj|solutionrelative:LR5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -14,7 +17,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +25,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LR5.1.cpp",
               "DocumentMoniker": "C:\\Users\\ROMA\\Desktop\\Student\\LR5.1\\LR5.1.cpp",
               "RelativeDocumentMoniker": "LR5.1.cpp",
               "ToolTip": "C:\\Users\\ROMA\\Desktop\\Student\\LR5.1\\LR5.1.cpp",
               "RelativeToolTip": "LR5.1.cpp",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAxwAwAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-09T17:56:54.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest5.1.cpp",
+              "DocumentMoniker": "C:\\Users\\ROMA\\Desktop\\Student\\UnitTest5.1\\UnitTest5.1.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest5.1\\UnitTest5.1.cpp",
+              "ToolTip": "C:\\Users\\ROMA\\Desktop\\Student\\UnitTest5.1\\UnitTest5.1.cpp",
+              "RelativeToolTip": "..\\UnitTest5.1\\UnitTest5.1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-09T19:32:21.548Z",
               "EditorCaption": ""
             }
           ]
