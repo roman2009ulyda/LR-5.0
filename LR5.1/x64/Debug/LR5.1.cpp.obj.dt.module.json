@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "LR5.1\\x64\\Debug\\LR5.1.obj",
+            "outputs": [
+                "LR5.1\\x64\\Debug\\LR5.1.cpp.obj.dt.module.json",
+                "LR5.1\\x64\\Debug\\LR5.1.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
